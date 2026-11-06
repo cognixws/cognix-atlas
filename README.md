@@ -36,7 +36,7 @@ cross-browser test runner and sends nothing anywhere.
 ## Install
 
 In COGNIX[WS]: **Extensions → Install**, source
-`https://github.com/cognixws/picode-atlas`. The first run downloads
+`https://github.com/cognixws/cognix-atlas`. The first run downloads
 `playwright-core` and its headless Chromium (about 100 MB to download, about
 270 MB on disk) into the extension's own data folder.
 
